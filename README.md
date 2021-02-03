@@ -1,2 +1,11 @@
 # Python_Rental_Analysis
-Dashboard of interactive visualizations to explore San Francisco rental market data
+
+* Plots neightborhood statistics for San Francisco:
+    * Price per SqFt
+    * Houing Units
+    * gross_rent
+    * Avg Price per SqFt
+    * incoporate hvplot interactions for some charts
+
+* Build Dashboard from rental_analysis visualixatons
+    * Explore San Francisco rental market data
