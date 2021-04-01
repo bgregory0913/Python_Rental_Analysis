@@ -1,7 +1,7 @@
 <h3 align="center">Python: San Francisco Rental Analysis:</h3>
 <p align="center">
-  <a href="https://github.com/bgregory0913/Python_Rental_Analysis/">
-    <img src="DashboardImage.jpg" alt="Dashboard" align="center">
+  <a href="https://github.com/bgregory0913/Python_Rental_Analysis">
+    <img src="/DashboardImage.png" alt="Dashboard" align="center">
   </a>
 </p>
 
