@@ -1,7 +1,7 @@
 <h3 align="center">Python: San Francisco Rental Analysis:</h3>
 <p align="center">
   <a href="https://github.com/bgregory0913/Python_Rental_Analysis">
-    <img src="DashboardImage.png" alt="Dashboard" align="center">
+    <img src="DashboardImage.PNG" alt="Dashboard" align="center">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
     * Houing Units
     * gross_rent
     * Avg Price per SqFt
-    * incoporate hvplot interactions for some charts
+    * Incorporate hvplot interactions for some charts
 
 * Build tabbed dashboard with interactive plots from rental_analysis visualizatons:
     * Explore San Francisco rental market data
