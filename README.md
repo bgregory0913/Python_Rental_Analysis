@@ -1,7 +1,7 @@
 <h3 align="center">Python: San Francisco Rental Analysis:</h3>
 <p align="center">
   <a href="https://github.com/bgregory0913/Python_Rental_Analysis">
-    <img src="/DashboardImage.png" alt="Dashboard" align="center">
+    <img src="DashboardImage.png" alt="Dashboard" align="center">
   </a>
 </p>
 
@@ -31,4 +31,3 @@ This project is written in Python using Jupyter Notebook and plotted with Pandas
 
 ## Contact:
 Blake Gregory - [LinkedIn](www.linkedin.com/in/blake-greg) - blake.gregory@tilineum.com
-
