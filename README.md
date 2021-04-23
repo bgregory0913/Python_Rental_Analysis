@@ -1,4 +1,4 @@
-<h3 align="center">Python: San Francisco Rental Analysis:</h3>
+<h3 align="center">San Francisco Rental Analysis Dashboard Using Python</h3>
 <p align="center">
   <a href="https://github.com/bgregory0913/Python_Rental_Analysis">
     <img src="DashboardImage.PNG" alt="Dashboard" align="center">
