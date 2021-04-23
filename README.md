@@ -6,15 +6,14 @@
 </p>
 
 ### Project Overview:
-* Create neightborhood statistic DataFrames for San Francisco and generate plots:
+* Create neighborhood statistic DataFrames for San Francisco and generate plots:
     * Price per SqFt
-    * Houing Units
-    * gross_rent
+    * Housing Units
+    * Gross rent
     * Avg Price per SqFt
     * Incorporate hvplot interactions for some charts
 
-* Build tabbed dashboard with interactive plots from rental_analysis visualizatons:
-    * Explore San Francisco rental market data
+* Generate a tabbed dashboard with interactive plots created from the rental analysis allowing us to explore San Francisco rental market data.
 
 ### Built With:
 This project is written in Python using Jupyter Notebook and plotted with Pandas plots as well as HoloViews; the browser-based dashboard also makes use of the the Panels Holoviews function to create tabs separating different plots for analysis. Integration with the MapBox API was used to generate the neighborhood map scatter plot.
